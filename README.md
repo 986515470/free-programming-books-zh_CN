@@ -248,7 +248,6 @@
 
 ## 其它
 
-* [OpenWrt智能、自动、透明翻墙路由器教程](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [深入理解并行编程](http://ifeve.com/perfbook/)
